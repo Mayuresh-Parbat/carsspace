@@ -1,15 +1,5 @@
 #CarsSpace
 
-<div align="center">AI-Powered Car Marketplace & Discovery Platform
-
-Explore • Compare • Buy • Sell • Discover
-
-"License" (https://img.shields.io/badge/License-MIT-blue.svg)
-"React" (https://img.shields.io/badge/Frontend-React.js-61DAFB)
-"Node.js" (https://img.shields.io/badge/Backend-Node.js-339933)
-"MongoDB" (https://img.shields.io/badge/Database-MongoDB-47A248)
-
-</div>---
 
 📖 Overview
 
@@ -131,14 +121,4 @@ Add your project screenshots here:
 Mayuresh
 BCA Graduate | Software Developer | Full Stack Developer
 
----
 
-📜 License
-
-This project is licensed under the MIT License.
-
----
-
-<div align="center">⭐ If you like this project, don't forget to star the repository! ⭐
-
-</div>
