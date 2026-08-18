@@ -118,7 +118,7 @@ Add your project screenshots here:
 
 👨‍💻 Developer
 
-Mayuresh
+Mayuresh Parbat !
 BCA Graduate | Software Developer | Full Stack Developer
 
 
